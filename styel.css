@@ -1,0 +1,96 @@
+
+#title{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: cursive;
+    transform: skewX(18deg);
+    text-shadow: 5px 5px 5px black;
+ }
+#red{
+    color: red;
+    text-transform: uppercase;
+    transform: skewX(18deg);
+    text-shadow: 5px 5px 5px black;
+    font-size: 3em;
+    transition: 1s ease-in;
+    cursor: pointer;
+    margin-top: 20px;
+
+}
+#orange
+{
+    color: orange;
+    text-transform: uppercase;
+    transform: skewX(18deg);
+    text-shadow: 5px 5px 5px black;
+    font-size: 3em;
+    transition: 1s ease-in;
+    cursor: pointer;
+    margin-top: 20px;
+}
+#yellow
+{
+    color: yellow;
+    text-transform: uppercase;
+    transform: skewX(18deg);
+    text-shadow: 5px 5px 5px black;
+    font-size: 3em;
+    transition: 1s ease-in;
+    cursor: pointer;
+    margin-top: 20px;
+}
+#green
+{
+    color: green;
+    text-transform: uppercase;
+    transform: skewX(18deg);
+    text-shadow: 5px 5px 5px black;
+    font-size: 3em;
+    transition: 1s ease-in;
+    cursor: pointer;
+    margin-top: 20px;
+}
+#blue
+{
+    color: blue;
+    text-transform: uppercase;
+    transform: skewX(18deg);
+    text-shadow: 5px 5px 5px black;
+    font-size: 3em;
+    transition: 1s ease-in;
+    cursor: pointer;
+    margin-top: 20px;
+}
+#indigo{
+    color: indigo;
+    text-transform: uppercase;
+    transform: skewX(18deg);
+    text-shadow: 5px 5px 5px black;
+    font-size: 3em;
+    transition: 1s ease-in;
+    cursor: pointer;
+    margin-top: 20px;
+}
+#violet
+{
+    color: violet;
+    text-transform: uppercase;
+    transform: skewX(18deg);
+    text-shadow: 5px 5px 5px black;
+    font-size: 3em;
+    transition: 1s ease-in;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+/* HoverEffect */
+#red:hover,
+#orange:hover,
+#yellow:hover,
+#green:hover,
+#blue:hover,
+#indigo:hover,
+#violet:hover{
+    
+    font-size: 5em;
+}
